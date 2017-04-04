@@ -1,6 +1,6 @@
 # TestAndroidAlertButtonText
 
-API 21 AlertDialog will cut text if not using SupportLibrary.
+AlertDialog on API 21 will cut text if not using SupportLibrary.
 
 ## Standard AlertDialog:
 ![screenshot_1491264066](https://cloud.githubusercontent.com/assets/7017516/24636463/3446a658-188f-11e7-966a-bfacaf2c0e84.png)
